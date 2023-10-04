@@ -1,0 +1,4 @@
+### Get characters
+GET http://localhost:1234/
+### Post characters
+POST  http://localhost:1234/

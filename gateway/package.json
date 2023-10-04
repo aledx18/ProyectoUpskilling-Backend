@@ -1,0 +1,24 @@
+{
+  "author": "",
+  "dependencies": {
+    "express": "4.18.2",
+    "http-proxy-middleware": "2.0.6",
+    "morgan": "1.10.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "gateway",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "version": "1.0.0"
+}
